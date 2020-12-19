@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-kilic)
 
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%">
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
