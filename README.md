@@ -7,6 +7,14 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-kilic)
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./react_native.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./python.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./js.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./css.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./html.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./nodejs.png" alt="react-native" width="20%" height="20%" align="right">
+<img src="./django.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./mongogooo.gif" alt="react-native" width="20%" height="20%" align="right">
 
 <br/>
 
