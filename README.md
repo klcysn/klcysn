@@ -26,6 +26,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
