@@ -21,7 +21,7 @@
 <img src="./nodejs.png" alt="react-native" width="17%" height="17%" align="left" style="margin: 7px">
 <img src="./django.gif" alt="react-native" width="22%" height="22%" align="left" style="margin: 7px">
 <img src="./mongogooo.gif" alt="react-native" width="22%" height="22%" align="left" style="margin: 7px">
-<img src="./salesforce.gif" alt="react-native" width="50%" height="50%" align="left" style="margin: 7px">
+<img src="./salesforce.gif" alt="react-native" width="100%" height="100%" align="left" style="margin: 7px">
 
 <br/>
 <br/>
