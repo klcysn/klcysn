@@ -40,8 +40,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+- 🔭 I’m currently working on Salesforce development
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
@@ -53,11 +52,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on programming languages
-- 🌱 I’m currently learning JavaScript | React | React Native
+- 🌱 I’m currently learning Salesforce and Marketing Cloud
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: Gmail(klc.ysn19@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
